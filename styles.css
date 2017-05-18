@@ -1,0 +1,9 @@
+body{background-color:#003366;color:#E5E5E5;font-family:arial}
+h1{text-align:center;}
+p{!border: 1px solid #E5E5E5; !padding: 30px;}
+a:link{color:red;background-color:transparent;}
+a:visited{color:red}
+a:hover{color:white}
+img{width:128px;height:128px;margin:auto;display:block;}
+header, footer{padding: 1em;clear: left;text-align: center;}
+div.container{width: 100%;border: 0px solid gray;}
